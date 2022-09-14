@@ -1,0 +1,98 @@
+header{
+  background-image: url(bg.jpg);
+  bottom: -10px;
+}
+.first-section{
+  display: flex;
+  padding-top: 20px;
+}
+.first-section{
+  margin-left: 80px; 
+}
+.first-section p{
+  color: tomato !important;
+  font-weight: bolder;
+}
+button{
+  margin-top: 30px;
+  padding: 0px 30px;
+  border: none;
+  background: none;
+}
+.first-b{
+margin-left: 250px;
+}
+.sign{
+  margin-left: 130px;
+}
+.out{
+  background:tomato;
+  color: white;
+  margin-top: 20px;
+  padding: 8px 15px;
+  border-radius: 10px;
+}
+.seconed-section{
+  display: flex;
+}
+.first-div{
+  width:300px;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+hr{
+  width:240px;
+  margin-left: -0px;
+  background-color:rgb(21, 255, 0);
+  position: absolute;
+}
+b{
+  position: relative;
+  margin-left: 190px;
+  margin-top: -40px !important;
+  border: 1px solid yellow;
+  background: yellow;
+  color: yellow;
+  border-radius: 100%;
+}
+.image{
+  display: flex;
+  width:;
+}
+.saiful{
+  width: 200px;
+  margin-top: 120px;
+  margin-bottom: -5px;
+  margin-left: -110px;
+  position: relative;
+}
+.shohag{
+  width: 200px;
+  margin-left: 130px;
+  border-radius: 100px;
+  /* position: relative; */
+}
+.sadia{
+  width: 200px;
+}
+.shoha{
+  width: 200px;
+  margin-left: 130px;
+}
+.shoha p{
+  color:rgb(5, 224, 244);
+}
+.last{
+  width:200px;
+}
+.last-div{
+  display: flex;
+  margin-left: 400px;
+  margin-top: -390px;
+}
+h1{
+  color: rgb(248, 6, 6);
+}
+p{
+  color: green;
+}
